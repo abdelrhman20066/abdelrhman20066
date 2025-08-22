@@ -1,5 +1,5 @@
 <h1 align="left" id="abdelrhman-title">👋 Hello there! I'm Abdelrhman Yasser</h1>
-<h3 align="left">CS Student | Web Developer | Networking Enthusiast</h3>
+<h3 align="left">IT Student | Web Developer | Networking Enthusiast</h3>
 
 
 
