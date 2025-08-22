@@ -1,9 +1,7 @@
 <h1 align="left" id="abdelrhman-title">👋 Hello there! I'm Abdelrhman Yasser</h1>
 <h3 align="left">CS Student | Web Developer | Networking Enthusiast</h3>
 
-<a href="#abdelrhman-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="stats" align="right" />
-</a>
+
 
 - 💻 &nbsp;I’m passionate about **Web Development** and **Networking**
 - 🚀 &nbsp;Currently improving my skills in **JavaScript & C#**
