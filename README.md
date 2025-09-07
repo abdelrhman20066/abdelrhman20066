@@ -8,7 +8,7 @@
 - 🌍 &nbsp;Exploring how **Networking & Switching** blend with software
 - 📚 &nbsp;Always learning and building small projects to sharpen my skills
 - 🤝 &nbsp;Open to collaborations and interesting projects
-- 🔗 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdelrhman-yasser-a3734830b/)**
+- 🔗 &nbsp;Connect with me on **[LinkedIn](www.linkedin.com/in/abdelrahman-yasser-a3734830b)**
 
 <br>
 
